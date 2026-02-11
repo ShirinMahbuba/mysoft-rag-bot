@@ -57,3 +57,5 @@ Take GROQ_API_KEY="your key"
 Prepare data: Place the PDF in the data/ folder and run python ingest.py.
 
 Launch Chatbot: streamlit run app.py
+## Live Demo:
+https://mysoft-rag-bot-rek7gzeblwhoh85573ufjt.streamlit.app/
