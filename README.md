@@ -1,7 +1,7 @@
            🤖 Assessment 2: Mysoft Heaven AI Chatbot (RAG)
            
-           ![](https://github.com/ShirinMahbuba/mysoft-rag-bot/blob/main/Screenshot%202026-02-12%20033757.png)
-           ![](https://github.com/ShirinMahbuba/mysoft-rag-bot/blob/main/Screenshot%202026-02-12%20033826.png)
+![](https://github.com/ShirinMahbuba/mysoft-rag-bot/blob/main/Screenshot%202026-02-12%20033757.png)
+![](https://github.com/ShirinMahbuba/mysoft-rag-bot/blob/main/Screenshot%202026-02-12%20033826.png)
 
 ## Project Overview
 A Retrieval-Augmented Generation (RAG) based chatbot that answers questions strictly using Mysoft Heaven’s company profile and documents.
